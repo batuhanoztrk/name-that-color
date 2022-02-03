@@ -1,4 +1,4 @@
-const ntc = require("../src/index");
+import * as ntc from "../src/index";
 
 // example taken from http://chir.ag/projects/ntc/
 
