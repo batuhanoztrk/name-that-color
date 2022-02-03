@@ -1,4 +1,4 @@
-import * as ntc from "../src/index";
+import ntc from "../src";
 
 // example taken from http://chir.ag/projects/ntc/
 

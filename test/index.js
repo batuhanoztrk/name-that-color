@@ -1,6 +1,6 @@
 const test = require('tape');
 const tapSpec = require('tap-spec');
-const ntc = require('../src/index');
+const ntc = require('../src');
 
 // make tape output look pretty
 test.createStream().pipe(tapSpec()).pipe(process.stdout);

@@ -43,4 +43,4 @@ npm test
 
 ## Disclaimer
 
-All credit goes to [Chirag Mehta](http://chir.ag/about) for creating the original ntc.js library.
+All credit goes to [Chirag Mehta](http://chir.ag/about) for creating the original ntc.ts library.

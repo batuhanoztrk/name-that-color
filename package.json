@@ -2,7 +2,7 @@
   "name": "ntcjs",
   "version": "1.1.2",
   "description": "A Node CommonJS compatible wrapper for the Name That Color library (ntc js) - http://chir.ag/projects/ntc/",
-  "main": "./src/index.js",
+  "main": "src/index.ts",
   "scripts": {
     "test": "tape ./test/*.js"
   },
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/pbojinov/name-that-color.git"
   },
-  "types": "./index.d.ts",
   "keywords": [
     "name",
     "that",
